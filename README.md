@@ -26,7 +26,7 @@
 - LinkedIn: [linkedin.com/in/kunalsingh-cs2025](https://linkedin.com/in/kunalsingh-cs2025)
 - Twitter: [@St2veHarrington](https://twitter.com/St2veHarrington)
 - GitHub: [github.com/kunalsingh-cs2025](https://github.com/kunalsingh-cs2025)
-- Email: 31singkunalsingh@gmail.com
+- Email: 21singkunalsingh@gmail.com
 
 ---
 
